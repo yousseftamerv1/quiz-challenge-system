@@ -46,7 +46,7 @@ Students can launch randomized quizzes. The engine ensures distinct questions ev
 ### ⚙️ Admin Command Center
 A powerful CRUD (Create, Read, Update, Delete) interface. Admins can load existing questions by ID, modify text/options, or wipe them from the bank entirely.
 <br>
-<img src="screenshots/admin_panel.png" alt="Admin Control" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="screenshots/admin_panal.png" alt="Admin Control" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <br><br>
 
 ### 🏆 Competitive Leaderboard
