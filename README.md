@@ -81,7 +81,7 @@ A high-performance ranking system using the **Bubble Sort** algorithm to display
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/quiz-challenge-system.git](https://github.com/yourusername/quiz-challenge-system.git)
+    git clone [https://github.com/yousseftamerv1/quiz-challenge-system.git](https://github.com/yourusername/quiz-challenge-system.git)
     cd quiz-challenge-system
     ```
 
